@@ -1,2 +1,0 @@
-mkdir trading_bot && cd trading_bot
-mkdir -p bot logs screenshots
