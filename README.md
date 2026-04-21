@@ -51,3 +51,7 @@ git init && git add . && git commit -m "Complete bot" && git push
 
 python run.py --symbol BTCUSDT --side BUY --type MARKET --qty 0.001
 python run.py --symbol BTCUSDT --side SELL --type LIMIT --qty 0.001 --price 45000
+
+## 🔐 Security Notes
+
+⚠️ **NEVER commit `.env` to GitHub!**
