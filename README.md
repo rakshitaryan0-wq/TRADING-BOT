@@ -54,4 +54,4 @@ python run.py --symbol BTCUSDT --side SELL --type LIMIT --qty 0.001 --price 4500
 
 ## 🔐 Security Notes
 
-⚠️ **NEVER commit `.env` to GitHub!**
+⚠️ **NEVER commit `.env.example` to GitHub!**
